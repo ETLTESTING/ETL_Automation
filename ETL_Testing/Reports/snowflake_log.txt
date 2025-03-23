@@ -1,0 +1,8 @@
+2025-03-23 08:17:00,368 - INFO - Snowflake Connector for Python Version: 3.13.2, Python Version: 3.12.6, Platform: Windows-10-10.0.19045-SP0
+2025-03-23 08:17:00,369 - INFO - Connecting to GLOBAL Snowflake domain
+2025-03-23 08:17:00,370 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-03-23 08:17:02,151 - INFO - Successfully connected to Snowflake.
+2025-03-23 08:17:02,410 - INFO - Successfully connected to Oracle.
+2025-03-23 08:17:02,910 - INFO - Successfully connected to Oracle.
+2025-03-23 08:17:02,918 - INFO - closed
+2025-03-23 08:17:02,918 - INFO - No async queries seem to be running, deleting session
